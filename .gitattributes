@@ -1,0 +1,2 @@
+# Keep PDF source documents byte-for-byte on Windows checkouts.
+*.pdf binary

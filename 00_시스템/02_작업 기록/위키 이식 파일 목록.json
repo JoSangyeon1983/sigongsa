@@ -1,0 +1,159 @@
+{
+  "created_at": "2026-11-18T10:34:10+09:00",
+  "source_root": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\한국실감\\00_Wiki",
+  "destination_root": "D:\\Sangyeon\\02_Task\\2026\\07_Sigongsa\\00_Wiki",
+  "mode": "copy_preserve_source",
+  "excluded": [
+    "90_작업 공간/중국출장/**",
+    "기타 중국 출장 관련 자료",
+    "기존 프로젝트 내용",
+    "과거 작업 로그",
+    "개인 세션"
+  ],
+  "source_preservation": {
+    "checked_files": 57,
+    "paths_sizes_mtimes_sha256_unchanged": true
+  },
+  "copied_unchanged": [
+    {
+      "source": "00_시스템/01_규정/작성 규칙.md",
+      "destination": "00_시스템/01_규정/작성 규칙.md",
+      "bytes": 8979,
+      "mtime_ns": 1794537157410229100,
+      "sha256": "2d72178decb7b4b4312f0584beb8715879458954022445ca094464b5c079caa1",
+      "destination_sha256": "2d72178decb7b4b4312f0584beb8715879458954022445ca094464b5c079caa1"
+    },
+    {
+      "source": "00_시스템/01_규정/문서 형식.md",
+      "destination": "00_시스템/01_규정/문서 형식.md",
+      "bytes": 18884,
+      "mtime_ns": 1792387721542052300,
+      "sha256": "975cd38ff0da12e965e40c26f8584c9d7f06b435f2c2909476f870ef916f02bb",
+      "destination_sha256": "975cd38ff0da12e965e40c26f8584c9d7f06b435f2c2909476f870ef916f02bb"
+    },
+    {
+      "source": "00_시스템/01_규정/작업 절차.md",
+      "destination": "00_시스템/01_규정/작업 절차.md",
+      "bytes": 12268,
+      "mtime_ns": 1792374306571666900,
+      "sha256": "9c3fdeaa4616aa13ec283782f1e4aa527f792c282b55ca8d9b1b488190e9109c",
+      "destination_sha256": "9c3fdeaa4616aa13ec283782f1e4aa527f792c282b55ca8d9b1b488190e9109c"
+    },
+    {
+      "source": "00_시스템/01_규정/회의록 작성 규칙.md",
+      "destination": "00_시스템/01_규정/회의록 작성 규칙.md",
+      "bytes": 25541,
+      "mtime_ns": 1791954036292184600,
+      "sha256": "3c5ae8972bc7e8f10fc15c691b37694b17fa2d30259cb101439f7fe0cc596147",
+      "destination_sha256": "3c5ae8972bc7e8f10fc15c691b37694b17fa2d30259cb101439f7fe0cc596147"
+    },
+    {
+      "source": "00_시스템/01_규정/이미지 생성 규칙.md",
+      "destination": "00_시스템/01_규정/이미지 생성 규칙.md",
+      "bytes": 21272,
+      "mtime_ns": 1791955517860826400,
+      "sha256": "d280c12dce65cd1ac1530d69fdb37869cb275c206282f23610ab6d501452077a",
+      "destination_sha256": "d280c12dce65cd1ac1530d69fdb37869cb275c206282f23610ab6d501452077a"
+    },
+    {
+      "source": "00_시스템/03_도구/heading_numbers.py",
+      "destination": "00_시스템/03_도구/heading_numbers.py",
+      "bytes": 20103,
+      "mtime_ns": 1791955517934234600,
+      "sha256": "305e104db3415f3f8b90b771f23396378beff24cd7a1075415503a9a4b6ca143",
+      "destination_sha256": "305e104db3415f3f8b90b771f23396378beff24cd7a1075415503a9a4b6ca143"
+    },
+    {
+      "source": "00_시스템/03_도구/test_heading_numbers.py",
+      "destination": "00_시스템/03_도구/test_heading_numbers.py",
+      "bytes": 16626,
+      "mtime_ns": 1791955517935235200,
+      "sha256": "9d5f15930dbdb644b071f273f1f9cc61e00e5397c904266cb254f27ba1571a71",
+      "destination_sha256": "9d5f15930dbdb644b071f273f1f9cc61e00e5397c904266cb254f27ba1571a71"
+    },
+    {
+      "source": "00_시스템/03_도구/image_record_check.py",
+      "destination": "00_시스템/03_도구/image_record_check.py",
+      "bytes": 6914,
+      "mtime_ns": 1791948243666873400,
+      "sha256": "522d697f0cd1661695246523fb6434377ad041ba38f5af16fb8ccd5347fc295d",
+      "destination_sha256": "522d697f0cd1661695246523fb6434377ad041ba38f5af16fb8ccd5347fc295d"
+    },
+    {
+      "source": ".obsidian/app.json",
+      "destination": ".obsidian/app.json",
+      "bytes": 205,
+      "mtime_ns": 1794878420548806500,
+      "sha256": "240a61f40195b160f58c4b3a8257ef2b2daf0f28b3d736f3e3cba6cbc9618f80",
+      "destination_sha256": "240a61f40195b160f58c4b3a8257ef2b2daf0f28b3d736f3e3cba6cbc9618f80"
+    },
+    {
+      "source": ".obsidian/appearance.json",
+      "destination": ".obsidian/appearance.json",
+      "bytes": 70,
+      "mtime_ns": 1794878420550806700,
+      "sha256": "6e28265073d892f697e7c56a29533d9922418c9fe8b4e849919bf570e31f19a7",
+      "destination_sha256": "6e28265073d892f697e7c56a29533d9922418c9fe8b4e849919bf570e31f19a7"
+    },
+    {
+      "source": ".obsidian/core-plugins.json",
+      "destination": ".obsidian/core-plugins.json",
+      "bytes": 696,
+      "mtime_ns": 1794878420084806900,
+      "sha256": "763cf20a921fd9955735b278006820b90b207b2fc04d9e79ca648279c7c14276",
+      "destination_sha256": "763cf20a921fd9955735b278006820b90b207b2fc04d9e79ca648279c7c14276"
+    },
+    {
+      "source": ".obsidian/snippets/headings.css",
+      "destination": ".obsidian/snippets/headings.css",
+      "bytes": 8724,
+      "mtime_ns": 1785908322006034700,
+      "sha256": "1b488867277e6aecc0790b8d2194628f0679fd3a169ff6c3252c73d88a988432",
+      "destination_sha256": "1b488867277e6aecc0790b8d2194628f0679fd3a169ff6c3252c73d88a988432"
+    },
+    {
+      "source": "05_참고 자료/00_회사자료/셀빅 회사 소개서.md",
+      "destination": "05_참고 자료/00_회사자료/셀빅 회사 소개서.md",
+      "bytes": 57207,
+      "mtime_ns": 1794882973037482200,
+      "sha256": "05d9bcf641531bb085e77b40b510a37fc151dcd110a2386d21dd4260da1eb7ea",
+      "destination_sha256": "05d9bcf641531bb085e77b40b510a37fc151dcd110a2386d21dd4260da1eb7ea"
+    },
+    {
+      "source": "05_참고 자료/00_회사자료/K컬처실감 콘텐츠 소개서.md",
+      "destination": "05_참고 자료/00_회사자료/K컬처실감 콘텐츠 소개서.md",
+      "bytes": 18631,
+      "mtime_ns": 1794890987866835000,
+      "sha256": "990e5de23dd63b78e92f191d4dd84c12b93a901b1b25ca4d94b5fb74f18f546b",
+      "destination_sha256": "990e5de23dd63b78e92f191d4dd84c12b93a901b1b25ca4d94b5fb74f18f546b"
+    },
+    {
+      "source": "91_PDF 원본/셀빅 회사 소개서.pdf",
+      "destination": "91_PDF 원본/셀빅 회사 소개서.pdf",
+      "bytes": 88973937,
+      "mtime_ns": 1794550810315528200,
+      "sha256": "d071ea2917de1614df4eeb651ffb067b6f1a59abe0f64fd2bf9a3bec5437da24",
+      "destination_sha256": "d071ea2917de1614df4eeb651ffb067b6f1a59abe0f64fd2bf9a3bec5437da24"
+    },
+    {
+      "source": "91_PDF 원본/[국문] K컬처실감_콘텐츠소개서.pdf",
+      "destination": "91_PDF 원본/[국문] K컬처실감_콘텐츠소개서.pdf",
+      "bytes": 21408620,
+      "mtime_ns": 1791266802715259500,
+      "sha256": "601246617544df6e1afa913d7429b138afb3853710ad76e4f2ab6744fd3106dd",
+      "destination_sha256": "601246617544df6e1afa913d7429b138afb3853710ad76e4f2ab6744fd3106dd"
+    }
+  ],
+  "adapted_from_source": [
+    "AGENTS.md",
+    ".gitignore",
+    "00_시스템/01_규정/위키 구축 및 운영 안내.md",
+    "00_시스템/00_색인/위키 색인.md",
+    "00_시스템/00_색인/산출물 색인.md"
+  ],
+  "new_records": [
+    "00_시스템/02_작업 기록/2026-11.md",
+    "00_시스템/02_작업 기록/위키 이식 검증 기록.md",
+    "00_시스템/02_작업 기록/위키 이식 파일 목록.json"
+  ]
+}
